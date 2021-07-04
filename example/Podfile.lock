@@ -1,0 +1,23 @@
+PODS:
+  - FDeviceAuthorityManager (1.0.0):
+    - PromisesObjC
+  - PromisesObjC (2.0.0)
+
+DEPENDENCIES:
+  - FDeviceAuthorityManager (from `../../FDeviceAuthorityManager`)
+
+SPEC REPOS:
+  trunk:
+    - PromisesObjC
+
+EXTERNAL SOURCES:
+  FDeviceAuthorityManager:
+    :path: "../../FDeviceAuthorityManager"
+
+SPEC CHECKSUMS:
+  FDeviceAuthorityManager: 45f8c85cde5c6118fc3caf6a030082fbc0aa5573
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+
+PODFILE CHECKSUM: 14443377f2012a8a9ba120fd11ba613003e8645f
+
+COCOAPODS: 1.10.1
